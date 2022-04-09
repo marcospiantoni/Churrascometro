@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html id="01" lang="pt">
+<head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible"   content="IE=edge">
+     <meta name="viewport"   content="width=device-width,     initial-scale=1.0">
+     <link rel="icon" href="./assets/favicon.ico">
+     <title> Churrascometro </title>
+     <link rel="stylesheet" href="./style.css">
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap" rel="stylesheet">
+</head>
+<body>
+      <div class="container">
+          
+         <h1 id="titulo"> Churrascometro <img class="photo" src="./assets/carne.svg" alt="carne"> <img  class="photo" src="./assets/cerveja.svg" alt="cerveja"> <img  class="photo" src="./assets/refri.svg" alt="bebidas"></h1>
+         
+          <p><strong> Quantidade de adultos: </strong></p>
+          <input  id="adultos" name="adultos" type="number" placeholder="Adultos">
+         
+          <p><strong> Quantidade de crianças: </strong></p>
+          <input  id="crianças" name="crianças" placeholder="Crianças" type="number">
+
+          <p><strong> Duração do evento: </strong></p>
+          <input  id="duraçao" name="duraçao" placeholder="Duração(h)" type="number">
+
+          <button onmouseover="onOver2(this)" onmouseout="onOut(this)" class="botao" onclick="calcular()"> Calcular </button>
+          <button onmouseover="onOver2(this)" onmouseout="onOut(this)" type="reset" class="botao"> Limpar </button>
+          
+          <div 
+               id="resultado">
+          </div>
+      </div>
+
+
+
+
+
+
+
+
+              <!-- conexão JS -->
+          <script src="./script.js"></script>
+</body>
+</html>
