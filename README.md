@@ -18,7 +18,13 @@
 ### necessárias para um churrasco, de acordo com:
 
 + Quantidade de pessoas
-+ Tempo  de duração
++ Tempo de duração
+
+### no qual:
++ carne 🥩  - 400 gr por pessoa + de 6 horas - 650
++ cerveja 🍺 - 1200 ml por pessoa + 6 horas 2000 ml
++ refrigerante/água 🥤 - 1000ml por pessoa + 6 horas 1500ml
++ Crianças 👶-  valem por 0,5(meio)
 
 <h1> Ideia do projeto </h1>
 
