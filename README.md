@@ -26,7 +26,7 @@
    #### PS: Churrasco foi apenas o contexto escolhido para este projeto, mas todo o códido dentro dessa página pode ser reutilizado em qualquer projeto dentro deste contexto.
    
 <h1> Por quê? </h1> 
- A ideia desse projeto faz parte de curso. No projeto me dediquei muito para fazer,  então ficarei feliz se você puder me fornecer um feedback sobre o projeto, código, estrutura ou qualquer outra coisa que você possa relatar que me torne um programador cade vez melhor! 
+ A ideia desse projeto faz parte de um curso. No projeto me dediquei muito para fazer,  então ficarei feliz se você puder me fornecer um feedback sobre o projeto, código, estrutura ou qualquer outra coisa que você possa relatar que me torne um programador cade vez melhor! 
 
 Email : marcospiantoni360@gmail.com
 Linkedin: www.linkedin.com/in/marcospiantoni
