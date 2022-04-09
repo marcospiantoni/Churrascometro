@@ -43,5 +43,11 @@ Linkedin: www.linkedin.com/in/marcospiantoni
 + Escolha a duração que você cobice.
 + Obtenha informações sobre quantidades de comidas e bebidas necessárias(de acordo com o numero de adultos/crianças e tempo de duração)
 
-  
+<h1> O projeto foi desenvolvido utilizando as seguintes tecnologias: </h1>
+
++ HTML
++ CSS
++ JavaScript
+
+
 
