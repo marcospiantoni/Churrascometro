@@ -35,7 +35,7 @@ Linkedin: www.linkedin.com/in/marcospiantoni
 
 + Escolha quantas pessoas convidar, separando-as como adultos e crianças.
 + Escolha a duração que você cobice.
-+ Obtenha informações sobre quantidades de comidas e bebidas(separadamente de adultos/crianças)
++ Obtenha informações sobre quantidades de comidas e bebidas necessárias(de acordo com o numero de adultos/crianças e tempo de duração)
 
   
 
