@@ -28,7 +28,7 @@
 
 <h1> Ideia do projeto </h1>
 
-### "Facilitar a organização de um churrasco"
+### "Facilitar a organização de um churrasco" se quiser organizar um churrasco usando o Churrascometro : https://churrascometro-kappa.vercel.app/
    #### PS: Churrasco foi apenas o contexto escolhido para este projeto, mas todo o códido dentro dessa página pode ser reutilizado em qualquer projeto dentro deste contexto.
    
 <h1> Por quê? </h1> 
